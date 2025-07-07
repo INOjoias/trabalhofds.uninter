@@ -1,0 +1,28 @@
+html{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center; color: cadetblue;
+}
+.paragrafo1{
+    font-size: x-large; text-align: justify;
+}
+li{
+    margin: 15px
+}
+.imagemhobbie{
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+.tabelapaises, th, td{
+    border: 5px solid cadetblue;
+    border-collapse: collapse;
+    margin:10px;
+
+}
+a{ 
+    color:blue  
+}
+a:hover{
+    color:brown
+}
